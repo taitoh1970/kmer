@@ -1,5 +1,5 @@
 ## Disclaimer
-1. The National Agriculture and Food Research Organization (hereinafter referred to as NARO) does not guarantee that defects, errors or malfunction will not occur with respect to this program.
+1. The National Agriculture and Food Research Organization (hereinafter referred to as NARO) does not guarantee that defects, errors or malfunctions will not occur with respect to this program.
 2. NARO shall not be responsible or liable for any damage or loss caused or be alleged to be caused, directly or indirectly, by the download and use of this program.
 3. NARO shall not be obliged to correct or repair the program regardless of the extent, even if there are any defects or malfunctions in this program.
 
