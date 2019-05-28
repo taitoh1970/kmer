@@ -6,6 +6,6 @@
 ## Copyright and Other Rights
 1. The copyright and all other rights of this program belong to NARO.
 2. Any unauthorized acts similar to reproduction, reprinting and unauthorized analysis (decompilation, disassembling, reverse engineering, etc.) shall be prohibited.
-3. Selling, renting or re-use of license, etc. of this program shall not be allowed.
+3. Selling, renting, or re-use of license, etc. of this program shall not be allowed.
 4. This program may be changed, or the distribution may be canceled without advance notification.
 5. In case the result obtained using this program is used for publication in academic journals or use for business purposes, etc., acknowledge the use of this program in the publication, etc.
