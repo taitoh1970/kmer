@@ -4,7 +4,7 @@ This repository provides programs for the k-mer analysis to detect unintended ex
 ## Installation
 
 ### Linux
-Move to the directory of these programs and type `make`.
+Move to the directory of the k-mer analysis programs and type `make`.
 
 ### Mac
 First of all, install Homebrew. See the following page for installation.
@@ -15,7 +15,7 @@ Next, install llvm.
 
 `brew install llvm`
 
-In the directory of the programs, just type `make`. If you don't have `make` in your computer, you also have to install it.
+In the directory of the k-mer analysis programs, just type `make`. If you don't have `make` in your computer, you also have to install it.
 
 ## How to use the programs
 There are two programs. The first one is `countmer` that counts the numbers of the k-mers.
