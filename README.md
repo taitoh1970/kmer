@@ -1,21 +1,21 @@
 # Programs for the k-mer analysis
-This repository provides programs for the k-mer analysis to detect unintended external DNA in a host genome.
+This repository provides programs for k-mer analysis to detect unintended external DNA in a host genome.
 
 ## Installation
 
 ### Linux
-Move to the directory of the k-mer analysis programs and type `make`.
+Navigate to the directory containing the k-mer analysis programs and execute the `make` command.
 
 ### Mac
-First of all, install Homebrew. See the following page for installation.
+First, install Homebrew by following the instructions on the official website:
 
 https://brew.sh/
 
-Next, install llvm.
+Next, install LLVM.
 
 `brew install llvm`
 
-In the directory of the k-mer analysis programs, just type `make`. If you don't have `make` in your computer, you also have to install it.
+In the directory containin the k-mer analysis programs, simply run `make`. If `make` is not installed on your system, you will need to install it as well.
 
 ## How to use the programs
 There are two programs. The first one is `countmer` that counts the numbers of the k-mers.
